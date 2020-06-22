@@ -1,4 +1,4 @@
-# Sites Chackings Service
+# Sites Chacking Service
 ---
  A Java program that provides a service for checking sites for changes and sending a message to the mail with information about changes
 
